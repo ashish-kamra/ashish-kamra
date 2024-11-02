@@ -2,8 +2,7 @@
 Welcome to my corner of GitHub!
 
 ## 🌱 Currently Learning
-- Distributed Systems
-- Self-hosting
+- Intricacies of Distributed Systems
 
 ## 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ashish-kamra)
